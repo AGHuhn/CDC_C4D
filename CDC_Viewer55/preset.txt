@@ -1,0 +1,9 @@
+Settings: preset.txt
+SensorNo=1
+LiveView=1
+Port=COM12
+autoDirectory=X:/AG Huhn/Group members/Hannes/Promotion/Projekte/CDC-Detektoren/CDC_Funk/CDC_python/CDC_Viewer55/
+setxmin=0
+setxmax=500
+setymin=0
+setymax=1200

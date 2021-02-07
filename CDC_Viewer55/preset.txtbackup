@@ -1,0 +1,14 @@
+Settings: preset.txt
+SensorNo=1
+LiveView=1
+SetSensorNoAuto=False
+Port=COM999
+autoDirectory=./Data/
+autoFilename=Buffer
+prependDate=True
+extTrigger=True
+timeBox=10.0
+setxmin=0
+setxmax=630
+setymin=100
+setymax=700
