@@ -11,7 +11,7 @@ The setup has the following features:
 - multi detector setups
 - trigger module for popular commercial CE-Systems
 
-All importat information is included in 
+All importat information is included in the CDC_manual.pdf 
 
 The Folder [Hardware](https://github.com/AGHuhn/CDC_C4D/tree/main/Hardware) provides:
 - A list of all needed parts
