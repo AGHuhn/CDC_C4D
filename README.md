@@ -8,4 +8,13 @@ The setup has the following features:
 - multi detector setups
 - trigger module for popular commercial CE-Systems
 
-The [Hardware] provides 
+The Folder [Hardware](https://github.com/AGHuhn/CDC_C4D/tree/main/Hardware) provides:
+- A list of all needed parts
+- Eagle Files for detection head
+- Eagle Files for supply unit
+- Eagle File for a Trigger Module for a Agilent CE 7100
+- Inventor Files for 3D printed case for supply unit
+
+The Folder [Arduino] contains the Firmware for the Arduinos used
+
+The Folder [Software] contains a python 3 script with GUI to acquire the data provides by the detector(s) 
