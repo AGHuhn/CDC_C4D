@@ -15,6 +15,6 @@ The Folder [Hardware](https://github.com/AGHuhn/CDC_C4D/tree/main/Hardware) prov
 - Eagle File for a Trigger Module for a Agilent CE 7100
 - Inventor Files for 3D printed case for supply unit
 
-The Folder [Arduino] contains the Firmware for the Arduinos used
+The Folder [Arduino](https://github.com/AGHuhn/CDC_C4D/tree/main/Arduino) contains the Firmware for the Arduinos used
 
-The Folder [Software] contains a python 3 script with GUI to acquire the data provides by the detector(s) 
+The Folder [Software](https://github.com/AGHuhn/CDC_C4D/tree/main/Software) contains a python 3 script with GUI to acquire the data provides by the detector(s) 
