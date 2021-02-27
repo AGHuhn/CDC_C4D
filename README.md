@@ -1,7 +1,7 @@
 # CDC_C4D
 _repository is not yet completed_
 
-This repository provides software and hardware to build and operate a capacitance-to-digital converter based capacitively coupled contactless conductivity (C4D) for capillary electrophoresis.
+This repository provides software and hardware to build and operate a capacitance-to-digital converter (AD7745) based capacitively coupled contactless conductivity (C4D) for capillary electrophoresis.
 The setup has the following features:
 - performance comparable to other C4Ds
 - automated measurements
@@ -10,6 +10,8 @@ The setup has the following features:
 - battery-powerd setups 
 - multi detector setups
 - trigger module for popular commercial CE-Systems
+
+All importat information is included in 
 
 The Folder [Hardware](https://github.com/AGHuhn/CDC_C4D/tree/main/Hardware) provides:
 - A list of all needed parts
@@ -20,6 +22,6 @@ The Folder [Hardware](https://github.com/AGHuhn/CDC_C4D/tree/main/Hardware) prov
 
 The Folder [Arduino](https://github.com/AGHuhn/CDC_C4D/tree/main/Arduino) contains the Firmware for the Arduinos used
 
-The Folder [Software](https://github.com/AGHuhn/CDC_C4D/tree/main/Software) contains a python 3 script with GUI to acquire the data provides by the detector(s) 
+The Folder [Software](https://github.com/AGHuhn/CDC_C4D/tree/main/Software) contains a python 3 script with GUI (CDC_Viewer55.pyw) to acquire the data provides by the detector(s) 
 
 Publication in [Electrophoresis](https://onlinelibrary.wiley.com/journal/15222683) in preparation
