@@ -1,5 +1,4 @@
 # CDC_C4D
-_repository is not yet completed_
 
 This repository provides building instructions and software to build and operate a capacitance-to-digital converter-based capacitively coupled contactless conductivity (C4D) for capillary electrophoresis.
 The setup has the following features:
