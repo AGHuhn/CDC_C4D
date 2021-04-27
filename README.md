@@ -24,4 +24,5 @@ The Folder [Arduino](https://github.com/AGHuhn/CDC_C4D/tree/main/Arduino) contai
 
 The Folder [Software](https://github.com/AGHuhn/CDC_C4D/tree/main/Software) contains a python 3 script with GUI (CDC_Viewer55.pyw) to acquire the data provides by the detectors 
 
-Publication in [Electrophoresis](https://onlinelibrary.wiley.com/journal/15222683) is in preparation
+Publication in [Electrophoresis](https://onlinelibrary.wiley.com/journal/15222683):
+Graf, H.G., Rudisch, B.M., Manegold, J. and Huhn, C. (2021), Advancements in capacitance‐to‐digital converter‐based C4D technology for detection in capillary electrophoresis using amplified excitation voltages and comparison to classical and open‐source C4Ds. ELECTROPHORESIS. https://doi.org/10.1002/elps.202000394
